@@ -1,7 +1,5 @@
 ######################## EDA ########################
 ##################### Initializing Environment #####################
-setwd("/Users/dongyangwang/Desktop/UW/First Year Grad/Spring 2022/Stat 527")
-rm(list=ls())
 
 # Library
 # EDA
